@@ -107,9 +107,11 @@ Este projeto é uma API segura desenvolvida com Express e JWT para autenticaçã
 1. **Instalar Dependências**
     ```bash
     npm install
+    ```
 2. **Executar a Aplicação**
     ```bash
     node index.js
+    ```
 3. **Testar os Endpoints**
 - Utilize ferramentas como Postman ou Boomerang para testar os endpoints.
     
