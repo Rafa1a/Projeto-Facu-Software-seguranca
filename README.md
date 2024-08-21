@@ -118,10 +118,6 @@ Este projeto é uma API segura desenvolvida com Express e JWT para autenticaçã
 - **JWT**: Utilizado para autenticação e autorização.
 - **Validação de Entrada**: A função `validateParameters` valida os parâmetros de entrada para evitar injeção SQL e garantir que estejam no formato correto.
 
-## Contribuição
-
-Se você deseja contribuir para este projeto, por favor, abra um pull request ou entre em contato.
-
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
