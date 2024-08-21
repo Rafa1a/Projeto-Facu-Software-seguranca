@@ -111,7 +111,7 @@ Este projeto é uma API segura desenvolvida com Express e JWT para autenticaçã
     ```bash
     node index.js
 3. **Testar os Endpoints**
-    Utilize ferramentas como Postman ou Boomerang para testar os endpoints.
+- Utilize ferramentas como Postman ou Boomerang para testar os endpoints.
     
 ## Segurança
 
