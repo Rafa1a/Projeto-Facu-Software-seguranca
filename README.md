@@ -1,5 +1,5 @@
 # Projeto de API Segura
-
+ 
 Este projeto é uma API segura desenvolvida com Express e JWT para autenticação e controle de acesso. A API inclui funcionalidades básicas de autenticação, autorização e recuperação de dados com medidas de segurança aprimoradas.
 
 ## Tecnologias Utilizadas
